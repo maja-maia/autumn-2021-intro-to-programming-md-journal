@@ -1,19 +1,18 @@
-# Hello! My name is Maja
+# Hello! My name is <name_partner_2>
 
-This is my journal-playground where I want to keep track of today´s class.
+I am helping <partner_1> with the tasks
 
 I will mark my tasks as done by adding inside the brackets [ ] a X 
-
 like -> [X]
 
-## Tasks with Partner
+## Task 
 
 - [X] Create a new branch <username/test-branch>
 - [X] Create a new Markdown file inside Journal
-  - [X] Create a header FOOD_LIST
-  - [X] Create a smaller header TO_BUY
-  - [X] Create a list of ingredients you need
-  - [X] Create a link to a recipe
+  - [ ] Create a header FOOD_LIST
+  - [ ] Create a smaller header TO_BUY
+  - [ ] Create a list of ingredients you need
+  - [ ] Create a link to a recipe
   - [ ] Create a link to a photo of those ingredients
   - [ ] Mark some text as italic
   - [ ] Save the content
@@ -21,9 +20,6 @@ like -> [X]
   - [ ] and inside create another journal folder
   - [ ] and copy the file PARTNER_2.md inside the Partner2 folder
 - [ ] Search for specific words and replace them
-
-## Tasks together as a group
-
 - [ ] git status
 - [ ] git add changes
 - [ ] git commit changes
@@ -31,10 +27,3 @@ like -> [X]
 - [ ] open a Pull Request with your changes
 - [ ] Approve it
 - [ ] Merge it 
-git checkout -b <maja-maia>/testbranch
-touch Markdown
-#FOOD_LIST
-##TO_BUY
-carrtot, **butter**, bread
-[recipe](www.google.com)
-
